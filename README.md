@@ -19,7 +19,7 @@ The whole pipelines are broken down into 2 stages:
   * **Region Segmentation**
   * **Dart Location Estimation**
   
-## Demo of Project Process :pic:
+## Demo of Project Process :chart_with_upwards_trend:
 
 ### Region Segmentation
 
