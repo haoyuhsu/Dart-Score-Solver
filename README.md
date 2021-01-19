@@ -2,6 +2,7 @@
 Estimate dart scores by dart images input using Computer Vision and Digital Image Processing techniques.
 
 Image shown below is one of the demo results of this project.
+
 ![Demo](src/result.jpg)
 
 For more details, please check the [complete project report](src/DSP_Final_Report_Team_10.pdf). :page_with_curl:
@@ -37,4 +38,5 @@ The whole pipelines are broken down into 2 stages:
 
 ## Future Works :triangular_flag_on_post:
 
-Makes it practical in real life, such as letting users to build their own dataset and safety system, scanning face to unlock certain devices like PC, mobile phone or a gate.
+* Remove dart shades on the board.
+* Differentitate overlapped darts.
