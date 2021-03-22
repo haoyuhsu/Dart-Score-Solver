@@ -1,4 +1,4 @@
-# Dart-Score-Estimation
+# Dart-Score-Solver
 Estimate dart scores by dart images input using Computer Vision and Digital Image Processing techniques.
 
 Image shown below is one of the demo results of this project.
