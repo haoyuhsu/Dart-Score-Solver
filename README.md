@@ -3,7 +3,7 @@ Estimate dart scores by dart images input using Computer Vision and Digital Imag
 
 Image shown below is one of the demo results of this project.
 
-![Demo](src/result.jpg)
+![Demo](src/dart_result.gif)
 
 For more details, please check the [complete project report](src/DSP_Final_Report_Team_10.pdf). :page_with_curl:
 
